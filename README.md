@@ -16,5 +16,5 @@ $ ./mvnw -pl pure-spring-demo clean verify
 Demo for spring boot based web application.
 
 ```
-$ ./mvnw -pl pure-spring-demo clean verify
+$ ./mvnw -pl spring-boot-demo clean verify
 ```
